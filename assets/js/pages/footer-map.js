@@ -226,7 +226,7 @@
             '<div class="text-center">' +
             '<div class="logo"><a href="index.html" class="header-logo"><img src="assets/images/logo/logo-default.png" alt=""></a></div>'+
             // '<h1 id="firstHeading" class="firstHeading medic-title"></h1>' +
-            '<div class="g-address medic-text"><i class="fa fa-home"></i>30 Mortensen Avenue, Salinas, CA 93905</div>' +
+            '<div class="g-address medic-text"><i class="fa fa-home"></i>Enrique Corona Morfín 52, Centro, Villa de Álvarez, Colima, Mexico</div>' +
             '<div class="g-phone-num medic-phone"><i class="fa fa-phone"></i>+1 - 831 - 758 7214</div>' +
             '</div>' +
             '</div>';
