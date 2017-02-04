@@ -2,7 +2,7 @@
     // Data for the markers consisting of a name, a LatLng and a zIndex for the
     // order in which these markers should display on top of each other.
     var beaches = [
-        ['Bondi Beach', -33.9, 151.151, 1]
+        ['Bondi Beach', 19.2690888, -103.7401461, 1]
     ];
     function init() {
         var myLatlng = new google.maps.LatLng(19.2690888, -103.7401461);
