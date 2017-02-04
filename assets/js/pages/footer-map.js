@@ -17,7 +17,7 @@
         if($(window).width() < 768) {
             var center_in_screen = new google.maps.LatLng(19.2690888, -103.7401461);
         }
-        var myLatlng = new google.maps.LatLng(19.2690888, -103.7401461); 
+        var myLatlng = new google.maps.LatLng(19.2690888, -103.7401461);
         // If document (your website) is wider than 767px, isDraggable = true, else isDraggable = false
         var isDraggable = $(document).width() > 767 ? true : false;
         var styles = [
@@ -199,7 +199,7 @@
         var styledMap = new google.maps.StyledMapType(styles,
             {name: "Styled Map"});
         var myOptions = {
-            zoom: 15,
+            zoom: 45,
             center: center_in_screen,
             mapTypeControl: true,
             mapTypeId: google.maps.MapTypeId.ROADMAP,
