@@ -5,7 +5,7 @@
         ['Bondi Beach', -33.9, 151.151, 1]
     ];
     function init() {
-        var myLatlng = new google.maps.LatLng(39.9765235, -75.1606152);
+        var myLatlng = new google.maps.LatLng(19.2690888, -103.7401461);
         // If document (your website) is wider than 767px, isDraggable = true, else isDraggable = false
         var isDraggable = $(document).width() > 767 ? true : false;
         var styles = [

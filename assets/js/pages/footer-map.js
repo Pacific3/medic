@@ -6,18 +6,18 @@
     ];
     function init() {
         if($(window).width() > 1199) {
-            var center_in_screen = new google.maps.LatLng(39.9765235, -75.1606152 + 0.015); 
+            var center_in_screen = new google.maps.LatLng(19.2690888, -103.7401461 + 0.015);
         }
         if($(window).width() > 991 && $(window).width() <= 1199) {
-            var center_in_screen = new google.maps.LatLng(39.9765235, -75.1606152 + 0.01); 
+            var center_in_screen = new google.maps.LatLng(19.2690888, -103.7401461 + 0.01);
         }
         if($(window).width() > 767 && $(window).width() <= 991) {
-            var center_in_screen = new google.maps.LatLng(39.9765235, -75.1606152 + 0.008); 
+            var center_in_screen = new google.maps.LatLng(19.2690888, -103.7401461 + 0.008);
         }
         if($(window).width() < 768) {
-            var center_in_screen = new google.maps.LatLng(39.9765235, -75.1606152); 
+            var center_in_screen = new google.maps.LatLng(19.2690888, -103.7401461);
         }
-        var myLatlng = new google.maps.LatLng(39.9765235, -75.1606152); 
+        var myLatlng = new google.maps.LatLng(19.2690888, -103.7401461); 
         // If document (your website) is wider than 767px, isDraggable = true, else isDraggable = false
         var isDraggable = $(document).width() > 767 ? true : false;
         var styles = [
@@ -265,7 +265,7 @@
                 'border' : '2px solid #E9343C',
             });
             iwBackground.children(':nth-child(3)').find('div').children().css({
-                'box-shadow': '#E9343C 1px 2px 6px', 
+                'box-shadow': '#E9343C 1px 2px 6px',
                 'z-index' : '1',
             });
 
@@ -283,7 +283,7 @@
            $('#map').css({
                 'height': $('.contact-form-wrapper .contact-form-content.right').height()*0.9,
                 "left": -offsetContact
-            }); 
+            });
         }
         else {
             $('#map').css({
