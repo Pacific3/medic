@@ -1193,7 +1193,7 @@
         display: none
     }
     .blog-2col .recent-news-item .recent-news-content:hover {
-        border-color: #0f77ad
+        border-color: #1041FB
     }
     .blog-2col-sidebar .recent-news-list {
         margin-bottom: 10px
@@ -1678,8 +1678,8 @@
         height: 460px
     }
     .gallery-inner .btn-primary {
-        background-color: #0f77ad;
-        border-color: #0f77ad;
+        background-color: #1041FB;
+        border-color: #1041FB;
         position: relative;
         text-align: left;
         padding: 15px;
@@ -1756,7 +1756,7 @@
         padding: 58px 0 0
     }
     .footer-map.footer-content-style-15.new-footer-map {
-        background-color: #0f77ad
+        background-color: #1041FB
     }
     .footer-map.footer-content-style-15.new-footer-map .contact-form-wrapper .contact-form-content.right {
         padding: 58px 0 0
@@ -2339,7 +2339,7 @@
         display: none
     }
     .recent-news-item .recent-news-content:hover {
-        border-color: #0f77ad
+        border-color: #1041FB
     }
     .our-team .team-wrapper,
     .our-team .team-wrapper-2 {

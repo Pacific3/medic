@@ -202,9 +202,9 @@
 }
 
 .btn-wrapper .btn {
-    background-color: #0f77ad;
+    background-color: #1041FB;
     padding: 0 40px;
-    border: 2px solid #0f77ad;
+    border: 2px solid #1041FB;
     line-height: 40px;
     text-transform: uppercase;
     border-radius: 0;
@@ -220,13 +220,13 @@
 }
 
 .btn-wrapper .btn:hover {
-    color: #0f77ad;
+    color: #1041FB;
     background-color: #fff
 }
 
 .btn-wrapper .btn-transparent {
     background-color: transparent;
-    color: #0f77ad
+    color: #1041FB
 }
 
 .btn-wrapper .btn-transparent:hover {
@@ -318,7 +318,7 @@ input[type=text]::-ms-reveal {
 }
 /*----------  1.2. Header & sub-header  ----------*/
 .sub-header {
-    color: #0f77ad;
+    color: #1041FB;
     font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
     font-size: 14px;
@@ -366,7 +366,7 @@ input[type=text]::-ms-reveal {
     position: relative;
     top: -61px;
     padding: 15px 15px 25px;
-    background-color: #0f77ad;
+    background-color: #1041FB;
     z-index: 1
 }
 
@@ -465,7 +465,7 @@ input[type=text]::-ms-reveal {
 .sbOptions {
     background-color: #fff;
     border: solid 1px #efefef;
-    border-bottom: 2px solid #0f77ad
+    border-bottom: 2px solid #1041FB
 }
 
 .sbOptions li {
@@ -1218,7 +1218,7 @@ input[type=text]::-ms-reveal {
 }
 
 .our-team .team-inner:hover:before {
-    border-bottom-color: #0f77ad;
+    border-bottom-color: #1041FB;
     transition: border-color 0.3s;
     -webkit-transition: border-color 0.3s;
     -moz-transition: border-color 0.3s;
@@ -1266,7 +1266,7 @@ input[type=text]::-ms-reveal {
 }
 
 .our-team .team-inner:after {
-    border-color: #0f77ad;
+    border-color: #1041FB;
     -webkit-transform: scale(1, 0);
     transform: scale(1, 0);
     -webkit-transition: -webkit-transform 0.3s linear;
@@ -1429,7 +1429,7 @@ input[type=text]::-ms-reveal {
     left: 0;
     width: 15%;
     height: 2px;
-    background-color: #0f77ad;
+    background-color: #1041FB;
     -webkit-transform: scale(0, 1);
     transform: scale(0, 1);
     -webkit-transform-origin: left center;
@@ -1452,7 +1452,7 @@ input[type=text]::-ms-reveal {
 
 .our-team .team-inner .team-sub-title {
     font-weight: 500;
-    color: #0f77ad
+    color: #1041FB
 }
 
 .our-team .nav-doctor {
@@ -2168,8 +2168,8 @@ input[type=text]::-ms-reveal {
     right: -2px;
     -webkit-transform-origin: center bottom;
     transform-origin: center bottom;
-    border-top: 2px solid #0f77ad;
-    border-bottom: 2px solid #0f77ad;
+    border-top: 2px solid #1041FB;
+    border-bottom: 2px solid #1041FB;
     z-index: -1;
     -webkit-transform-origin: right center;
     transform-origin: right center;
@@ -2192,7 +2192,7 @@ input[type=text]::-ms-reveal {
 .recent-news-item .recent-news-content:after {
     border-top: 0;
     border-bottom: 0;
-    border-right: 2px solid #0f77ad;
+    border-right: 2px solid #1041FB;
     transform: scale(1, 0);
     -webkit-transform: scale(1, 0);
     -moz-transform: scale(1, 0);
@@ -2221,7 +2221,7 @@ input[type=text]::-ms-reveal {
 }
 
 .recent-news-item .recent-news-content .recent-news-title a:hover {
-    color: #0f77ad
+    color: #1041FB
 }
 
 .recent-news-item .recent-news-content .recent-news-description {
@@ -2360,8 +2360,8 @@ input[type=text]::-ms-reveal {
     transform: translate(0, -50%);
     -webkit-transform: translate(0, -50%);
     font-size: 30px;
-    border: 2px solid #0F77AD;
-    color: #0F77AD;
+    border: 2px solid #1041FB;
+    color: #1041FB;
     width: 50px;
     height: 50px;
     line-height: 46px;
@@ -2788,7 +2788,7 @@ input[type=text]::-ms-reveal {
 
 .datepicker table tr td.active {
     background-image: none!important;
-    background-color: #0f77ad!important
+    background-color: #1041FB!important
 }
 
 .datepicker table tr td span {
@@ -2797,7 +2797,7 @@ input[type=text]::-ms-reveal {
 
 .datepicker table tr td span.active {
     background-image: none!important;
-    background-color: #0f77ad!important
+    background-color: #1041FB!important
 }
 /*----------  1.20. slick dots  ----------*/
 .slick-dots {
@@ -3141,7 +3141,7 @@ input[type=text]::-ms-reveal {
 }
 
 .search-block .btn-wrapper .view-all:hover {
-    color: #0f77ad
+    color: #1041FB
 }
 
 .search-block.of-search-result .form-group {
@@ -3315,13 +3315,13 @@ input[type=text]::-ms-reveal {
 }
 
 .featured-job-block .job-list .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
-    background-color: #0f77ad;
+    background-color: #1041FB;
     width: 10px
 }
 
 .featured-job-block .job-list .mCSB_scrollTools .mCSB_dragger:hover .mCSB_dragger_bar,
 .featured-job-block .job-list .mCSB_scrollTools .mCSB_dragger:active .mCSB_dragger_bar {
-    background-color: #0f77ad
+    background-color: #1041FB
 }
 
 .featured-job-block .job-list .mCSB_scrollTools .mCSB_draggerRail {
@@ -3394,7 +3394,7 @@ input[type=text]::-ms-reveal {
     text-align: right;
     margin-top: 15px;
     font-family: 'Montserrat', sans-serif;
-    color: #0f77ad;
+    color: #1041FB;
     font-weight: bold
 }
 
@@ -3674,7 +3674,7 @@ input[type=text]::-ms-reveal {
 }
 
 .recent-post-wrapper .post-list .media-heading a:hover {
-    color: #0f77ad
+    color: #1041FB
 }
 /*----------  2.2. category & archive lists  ----------*/
 .category-list .category + .category .category-link,
@@ -3703,7 +3703,7 @@ input[type=text]::-ms-reveal {
 .archive-list .category-link:hover,
 .category-list .archive-link:hover,
 .archive-list .archive-link:hover {
-    color: #0f77ad;
+    color: #1041FB;
     padding-left: 10px
 }
 
@@ -3907,8 +3907,8 @@ input[type=text]::-ms-reveal {
 .pagination-wrapper .pagination > .pagi-inner > .pagi-link:hover,
 .pagination-wrapper .pagination > .pagi-inner > .pagi-link:focus {
     background-color: transparent;
-    border-bottom-color: #0f77ad;
-    color: #0f77ad
+    border-bottom-color: #1041FB;
+    color: #1041FB
 }
 
 .pagination-wrapper .pagination > .active > .pagi-link,
@@ -4084,7 +4084,7 @@ input[type=text]::-ms-reveal {
 .widget-make-appointment .appointment-form {
     top: auto;
     padding: 15px 30px 40px;
-    background-color: #0f77ad
+    background-color: #1041FB
 }
 
 .widget-make-appointment .appointment-form .btn-wrapper {
@@ -4220,7 +4220,7 @@ input[type=text]::-ms-reveal {
 }
 
 .faq-wrapper .faq-panel .panel-heading.active {
-    color: #0f77ad
+    color: #1041FB
 }
 
 .faq-wrapper .faq-panel .panel-heading.active:before {
@@ -4284,7 +4284,7 @@ input[type=text]::-ms-reveal {
 .gallery-wrapper .filter-button-group .btn:hover {
     background-color: transparent;
     box-shadow: none;
-    color: #0f77ad
+    color: #1041FB
 }
 
 .gallery-wrapper .filter-button-group .btn.active:after,
@@ -4342,7 +4342,7 @@ input[type=text]::-ms-reveal {
     position: absolute;
     width: 100%;
     height: 100%;
-    background-color: #0f77ad
+    background-color: #1041FB
 }
 
 .gallery-wrapper .galleryContainer .bg-overlay .title-hover {
@@ -4394,8 +4394,8 @@ input[type=text]::-ms-reveal {
 
 .gallery-wrapper .btn-wrapper .btn:hover {
     color: #fff;
-    background-color: #0F77AD;
-    border-color: #0F77AD
+    background-color: #1041FB;
+    border-color: #1041FB
 }
 
 .gallery-wrapper.gallery-3col .galleryContainer .alldepartment {
@@ -4662,11 +4662,11 @@ input[type=text]::-ms-reveal {
 }
 
 .post-inner:hover .post-content {
-    border-color: #0f77ad
+    border-color: #1041FB
 }
 
 .post-inner:hover .post-content:before {
-    background-color: #0f77ad
+    background-color: #1041FB
 }
 
 .post-inner + .post-inner {
@@ -4766,7 +4766,7 @@ input[type=text]::-ms-reveal {
 }
 
 .post-title a:hover {
-    color: #0f77ad
+    color: #1041FB
 }
 
 .description {
@@ -5078,7 +5078,7 @@ input[type=text]::-ms-reveal {
     left: -2px;
     border-left: 0;
     margin: auto;
-    border-right: 2px solid #0f77ad;
+    border-right: 2px solid #1041FB;
     -webkit-transform: scale(1, 0);
     transform: scale(1, 0);
     z-index: -1;
@@ -5102,8 +5102,8 @@ input[type=text]::-ms-reveal {
     -webkit-transform: scale(0, 1);
     transform: scale(0, 1);
     border-right: 0;
-    border-top: 2px solid #0f77ad;
-    border-bottom: 2px solid #0f77ad;
+    border-top: 2px solid #1041FB;
+    border-bottom: 2px solid #1041FB;
     -webkit-transition: -webkit-transform 0.5s linear;
     transition: -webkit-transform 0.5s linear;
     transition: transform 0.5s linear;
@@ -5119,7 +5119,7 @@ input[type=text]::-ms-reveal {
 }
 
 .department-wrapper .department-inner.text-right .department-body:before {
-    border-left: 2px solid #0f77ad;
+    border-left: 2px solid #1041FB;
     border-right: 0
 }
 
@@ -5264,7 +5264,7 @@ input[type=text]::-ms-reveal {
 }
 
 .department-wrapper .department-head .head-name:hover {
-    color: #0f77ad
+    color: #1041FB
 }
 
 .department-wrapper .department-head .list-socials {
@@ -5295,7 +5295,7 @@ input[type=text]::-ms-reveal {
     width: 100%;
     line-height: 32px;
     background: transparent;
-    color: #0f77ad
+    color: #1041FB
 }
 
 .department-wrapper .typo-line {
@@ -5496,8 +5496,8 @@ input[type=text]::-ms-reveal {
     bottom: -2px;
     -webkit-transform-origin: right center;
     transform-origin: right center;
-    border-top: 2px solid #0f77ad;
-    border-bottom: 2px solid #0f77ad;
+    border-top: 2px solid #1041FB;
+    border-bottom: 2px solid #1041FB;
     transform: scale(0, 1);
     -webkit-transform: scale(0, 1);
     -moz-transform: scale(0, 1);
@@ -5521,7 +5521,7 @@ input[type=text]::-ms-reveal {
 .doctor-wrapper .doctor-body:after {
     border-top: 0;
     border-bottom: 0;
-    border-right: 2px solid #0f77ad;
+    border-right: 2px solid #1041FB;
     transform: scale(1, 0);
     -webkit-transform: scale(1, 0);
     -moz-transform: scale(1, 0);
@@ -5548,7 +5548,7 @@ input[type=text]::-ms-reveal {
 }
 
 .doctor-wrapper .doctor-title:hover {
-    color: #0f77ad
+    color: #1041FB
 }
 
 .doctor-wrapper .doctor-title:before,
@@ -5573,7 +5573,7 @@ input[type=text]::-ms-reveal {
     -webkit-transform-origin: center top;
     transform-origin: center top;
     border-top: 0;
-    border-color: #0f77ad;
+    border-color: #1041FB;
     transform: scale(1, 0);
     -webkit-transform: scale(1, 0);
     -moz-transform: scale(1, 0);
@@ -5591,13 +5591,13 @@ input[type=text]::-ms-reveal {
 .doctor-wrapper .doctor-sub-title {
     font-size: 16px;
     font-weight: 500;
-    color: #0f77ad;
+    color: #1041FB;
     margin: 4px 0 10px
 }
 
 .doctor-wrapper .doctor-info i {
     font-weight: 16px;
-    color: #0f77ad
+    color: #1041FB
 }
 
 .doctor-wrapper .doctor-info .info-inner {
@@ -5851,7 +5851,7 @@ input[type=text]::-ms-reveal {
 }
 
 .services-main .testimonials .slider-testimonials .sub-header {
-    color: #0f77ad
+    color: #1041FB
 }
 
 .services-main .testimonials .slider-testimonials .owl-dot {
@@ -5919,8 +5919,8 @@ input[type=text]::-ms-reveal {
 }
 
 .appointment-wrapper .appointment-form .btn-wrapper .btn {
-    border-color: #0f77ad;
-    background-color: #0f77ad
+    border-color: #1041FB;
+    background-color: #1041FB
 }
 
 .appointment-wrapper .appointment-form .btn-wrapper .btn:hover {
@@ -6132,7 +6132,7 @@ input[type=text]::-ms-reveal {
 }
 
 .blog-detail-wrapper .post-single .share .socials-link:hover {
-    color: #0f77ad
+    color: #1041FB
 }
 
 .blog-detail-wrapper .post-single .list-meta {
@@ -6317,8 +6317,8 @@ input[type=text]::-ms-reveal {
 
 .blog-detail-wrapper .appointment-form .btn-make-app {
     width: auto;
-    background-color: #0f77ad;
-    border-color: #0f77ad
+    background-color: #1041FB;
+    border-color: #1041FB
 }
 
 .post-single-content p + p {
@@ -6436,7 +6436,7 @@ input[type=text]::-ms-reveal {
 }
 
 .post-single-content .tag-post-list .post-tag-link:hover {
-    color: #0f77ad
+    color: #1041FB
 }
 
 .post-single-content .tag-post-list li {
@@ -6477,7 +6477,7 @@ input[type=text]::-ms-reveal {
 }
 
 .post-single-content .panel-default .panel-title a {
-    color: #0f77ad;
+    color: #1041FB;
     display: table-cell;
     padding-left: 5px;
 }
@@ -6522,7 +6522,7 @@ input[type=text]::-ms-reveal {
 }
 
 .services-detail-wrapper .post-single .share .socials-link:hover {
-    color: #0f77ad
+    color: #1041FB
 }
 
 .services-detail-wrapper .post-single .list-meta {
@@ -6663,8 +6663,8 @@ input[type=text]::-ms-reveal {
 }
 
 .home-appointment.index-2 .appointment-form .btn-wrapper .btn {
-    border-color: #0f77ad;
-    background-color: #0f77ad
+    border-color: #1041FB;
+    background-color: #1041FB
 }
 
 .home-appointment.index-2 .appointment-form .btn-wrapper .btn:hover {
@@ -7856,7 +7856,7 @@ input[type=text]::-ms-reveal {
 }
 
 .blog-2col-sidebar .recent-news-item .recent-news-content:hover {
-    border-color: #0f77ad
+    border-color: #1041FB
 }
 /*----------  3.25. Blog 2 col non sidebar ----------*/
 .blog-2col-non-sidebar .post-wrapper {
@@ -7927,7 +7927,7 @@ input[type=text]::-ms-reveal {
 }
 
 .blog-3col .recent-news-item .recent-news-content:hover {
-    border-color: #0f77ad
+    border-color: #1041FB
 }
 /*----------  3.27. Blog full width ----------*/
 .blog-full-width .video-thumbnails {
@@ -7959,7 +7959,7 @@ input[type=text]::-ms-reveal {
     top: auto;
     bottom: 2px;
     right: 0;
-    background-color: #0f77ad;
+    background-color: #1041FB;
     color: #92bfd7;
     font-size: 16px;
     width: 30px;
@@ -7975,7 +7975,7 @@ input[type=text]::-ms-reveal {
     -webkit-appearance: none;
     -moz-appearance: none;
     -o-appearance: none;
-    background-color: #0F77AD
+    background-color: #1041FB
 }
 
 .form-choose-department .form-select.form-md-line-input.form-md-floating-label .form-control ~ label {
@@ -8084,8 +8084,8 @@ input[type=text]::-ms-reveal {
 }
 
 .pricing-main .appointment-form .btn-wrapper .btn {
-    border-color: #0f77ad;
-    background-color: #0f77ad
+    border-color: #1041FB;
+    background-color: #1041FB
 }
 
 .pricing-main .appointment-form .btn-wrapper .btn:hover {
@@ -8147,7 +8147,7 @@ input[type=text]::-ms-reveal {
 }
 
 .table-order-medic thead tr {
-    background-color: #0f77ad
+    background-color: #1041FB
 }
 
 .table-order-medic thead tr th {
@@ -8246,7 +8246,7 @@ input[type=text]::-ms-reveal {
 .table-order-medic .checkbox input[type=radio]:checked + .check-label:before,
 .table-order-medic .radio input[type=radio]:checked + .check-label:before {
     content: '\f058';
-    color: #0f77ad
+    color: #1041FB
 }
 /*----------  3.29. location  ----------*/
 .location-main .map-contact-style {
@@ -8373,7 +8373,7 @@ input[type=text]::-ms-reveal {
 }
 
 .location-info-with-icon .location-link:hover {
-    color: #0f77ad
+    color: #1041FB
 }
 /*----------  3.30. header and slider options  ----------*/
 .header-slider-options-wrapper .home-appointment {
@@ -8477,8 +8477,8 @@ input[type=text]::-ms-reveal {
 }
 
 .home-prenancy .appointment-form .btn-wrapper .btn {
-    border-color: #0f77ad;
-    background-color: #0f77ad
+    border-color: #1041FB;
+    background-color: #1041FB
 }
 
 .home-prenancy .appointment-form .btn-wrapper .btn:hover {
@@ -9830,7 +9830,7 @@ input[type=text]::-ms-reveal {
     font-size: 36px;
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
-    color: #0f77ad;
+    color: #1041FB;
     display: block;
     position: relative;
     margin-bottom: 35px
@@ -9852,7 +9852,7 @@ input[type=text]::-ms-reveal {
 .coming-soon-wrapper .countdown-period {
     font-size: 16px;
     font-family: 'Montserrat', sans-serif;
-    color: #0f77ad
+    color: #1041FB
 }
 
 .coming-soon-wrapper .btn-wrapper .btn {
@@ -10023,8 +10023,8 @@ input[type=text]::-ms-reveal {
 }
 
 .timetable-main .appointment-form .btn-wrapper .btn {
-    border-color: #0f77ad;
-    background-color: #0f77ad
+    border-color: #1041FB;
+    background-color: #1041FB
 }
 
 .timetable-main .appointment-form .btn-wrapper .btn:hover {

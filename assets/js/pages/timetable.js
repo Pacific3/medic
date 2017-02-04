@@ -41,13 +41,13 @@ $(function() {
 					title: 'Cancer Center',
 					start: '2016-05-04 08:00:00',
 					end: '2016-05-04 10:00:00',
-					backgroundColor: '#0f77ad'
+					backgroundColor: '#1041FB'
 				},
 				{
 					title: 'Psychology',
 					start: '2016-05-04 15:00:00',
 					end: '2016-05-04 19:00:00',
-					backgroundColor: '#0f77ad'
+					backgroundColor: '#1041FB'
 				},
 				{
 					title: 'Vet Clinic',
@@ -63,13 +63,13 @@ $(function() {
 					title: 'Heart Center',
 					start: '2016-04-29 08:00:00',
 					end: '2016-04-29 10:00:00',
-					backgroundColor: '#0f77ad'
+					backgroundColor: '#1041FB'
 				},
 				{
 					title: 'Pediatric',
 					start: '2016-04-29 15:00:00',
 					end: '2016-04-29 19:00:00',
-					backgroundColor: '#0f77ad'
+					backgroundColor: '#1041FB'
 				},
 				{
 					title: 'Maternity',
@@ -85,25 +85,25 @@ $(function() {
 					title: 'Heart Center',
 					start: '2016-05-12 08:00:00',
 					end: '2016-05-12 10:00:00',
-					backgroundColor: '#0f77ad'
+					backgroundColor: '#1041FB'
 				},
 				{
 					title: 'Pediatric',
 					start: '2016-05-12 15:00:00',
 					end: '2016-05-12 19:00:00',
-					backgroundColor: '#0f77ad'
+					backgroundColor: '#1041FB'
 				},
 				{
 					title: 'Cancer Center',
 					start: '2016-05-24 08:00:00',
 					end: '2016-05-24 10:00:00',
-					backgroundColor: '#0f77ad'
+					backgroundColor: '#1041FB'
 				},
 				{
 					title: 'Psychology',
 					start: '2016-05-24 15:00:00',
 					end: '2016-05-24 19:00:00',
-					backgroundColor: '#0f77ad'
+					backgroundColor: '#1041FB'
 				},
 				{
 					title: 'Maternity',
@@ -119,13 +119,13 @@ $(function() {
 					title: 'Cancer Center',
 					start: '2016-05-30 08:00:00',
 					end: '2016-05-30 10:00:00',
-					backgroundColor: '#0f77ad'
+					backgroundColor: '#1041FB'
 				},
 				{
 					title: 'Psychology',
 					start: '2016-05-30 15:00:00',
 					end: '2016-05-30 19:00:00',
-					backgroundColor: '#0f77ad'
+					backgroundColor: '#1041FB'
 				}
 			]
 		});
@@ -162,13 +162,13 @@ $(function() {
 					title: 'Cancer Center',
 					start: '2016-05-04 08:00:00',
 					end: '2016-05-04 10:00:00',
-					backgroundColor: '#0f77ad'
+					backgroundColor: '#1041FB'
 				},
 				{
 					title: 'Psychology',
 					start: '2016-05-04 15:00:00',
 					end: '2016-05-04 19:00:00',
-					backgroundColor: '#0f77ad'
+					backgroundColor: '#1041FB'
 				},
 				{
 					title: 'Vet Clinic',
@@ -184,13 +184,13 @@ $(function() {
 					title: 'Heart Center',
 					start: '2016-04-29 08:00:00',
 					end: '2016-04-29 10:00:00',
-					backgroundColor: '#0f77ad'
+					backgroundColor: '#1041FB'
 				},
 				{
 					title: 'Pediatric',
 					start: '2016-04-29 15:00:00',
 					end: '2016-04-29 19:00:00',
-					backgroundColor: '#0f77ad'
+					backgroundColor: '#1041FB'
 				},
 				{
 					title: 'Maternity',
@@ -206,25 +206,25 @@ $(function() {
 					title: 'Heart Center',
 					start: '2016-05-12 08:00:00',
 					end: '2016-05-12 10:00:00',
-					backgroundColor: '#0f77ad'
+					backgroundColor: '#1041FB'
 				},
 				{
 					title: 'Pediatric',
 					start: '2016-05-12 15:00:00',
 					end: '2016-05-12 19:00:00',
-					backgroundColor: '#0f77ad'
+					backgroundColor: '#1041FB'
 				},
 				{
 					title: 'Cancer Center',
 					start: '2016-05-24 08:00:00',
 					end: '2016-05-24 10:00:00',
-					backgroundColor: '#0f77ad'
+					backgroundColor: '#1041FB'
 				},
 				{
 					title: 'Psychology',
 					start: '2016-05-24 15:00:00',
 					end: '2016-05-24 19:00:00',
-					backgroundColor: '#0f77ad'
+					backgroundColor: '#1041FB'
 				},
 				{
 					title: 'Maternity',
@@ -240,13 +240,13 @@ $(function() {
 					title: 'Cancer Center',
 					start: '2016-05-30 08:00:00',
 					end: '2016-05-30 10:00:00',
-					backgroundColor: '#0f77ad'
+					backgroundColor: '#1041FB'
 				},
 				{
 					title: 'Psychology',
 					start: '2016-05-30 15:00:00',
 					end: '2016-05-30 19:00:00',
-					backgroundColor: '#0f77ad'
+					backgroundColor: '#1041FB'
 				}
 			],
 		 	eventRender: function(event, element) {

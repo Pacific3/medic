@@ -99,7 +99,7 @@ a:hover,
 a:active,
 a:focus {
   text-decoration: none;
-  color: #0f77ad;
+  color: #1041FB;
   border-bottom: none;
 }
 .body-wrapper {
@@ -160,10 +160,10 @@ header {
   margin-right: 0;
 }
 .header-topbar.border-bottom {
-  border-bottom: 2px solid #0f77ad;
+  border-bottom: 2px solid #1041FB;
 }
 .header-topbar.border-top {
-  border-top: 2px solid #0f77ad;
+  border-top: 2px solid #1041FB;
 }
 .header-topbar.bg-gray {
   background-color: #f2f6f8;
@@ -176,7 +176,7 @@ header {
   color: #07932e;
 }
 .header-topbar.bg-gray .ticker-news .ticker-inner .ticker-color:hover {
-  color: #0f77ad;
+  color: #1041FB;
 }
 .header-topbar.bg-gray .information-toppar .text .info-inner {
   color: #51616b;
@@ -191,13 +191,13 @@ header {
   color: #fff;
 }
 .header-topbar.bg-vet-clinic .ticker-news .ticker-inner .ticker-color:hover {
-  color: #0f77ad;
+  color: #1041FB;
 }
 .header-topbar.bg-vet-clinic .social-topbar li .link {
   color: #f6eff7;
 }
 .header-topbar.bg-vet-clinic .social-topbar li .link:hover {
-  color: #0f77ad;
+  color: #1041FB;
 }
 .ticker-news {
   width: 350px;
@@ -621,7 +621,7 @@ header {
   -moz-border-radius: 0;
   border: none;
   padding: 0;
-  border-bottom: 2px solid #0f77ad;
+  border-bottom: 2px solid #1041FB;
   transition: all 0.5s ease;
   -webkit-transition: all 0.5s ease;
   -moz-transition: all 0.5s ease;
@@ -866,7 +866,7 @@ header {
   -o-transition: all 0.5s ease;
 }
 .wrapper-mobile-nav .header-main .login-widget .item:hover {
-  background-color: #0f77ad;
+  background-color: #1041FB;
 }
 .menu-mobile {
   width: 100%;
@@ -1047,7 +1047,7 @@ header {
   border-bottom: 2px solid #f1622a;
 }
 .header-heart-center .ticker-news .ticker-inner .ticker-color {
-  color: #0f77ad !important;
+  color: #1041FB !important;
 }
 .header-heart-center .ticker-news .ticker-inner .ticker-color:hover {
   color: #f04e4e !important;
@@ -1097,7 +1097,7 @@ header {
   width: 100%;
 }
 .header-cancer-center .ticker-news .ticker-inner .ticker-color {
-  color: #0f77ad !important;
+  color: #1041FB !important;
 }
 .header-cancer-center .ticker-news .ticker-inner .ticker-color:hover {
   color: #ee5e5e !important;
@@ -1469,7 +1469,7 @@ header {
   background-color: #a6b7c0;
 }
 .footer-content.footer-content-style-2 .footer-description {
-  color: #0f77ad;
+  color: #1041FB;
 }
 .footer-content.footer-content-style-2 .btn-for-icon {
   color: #07932e;
@@ -1491,7 +1491,7 @@ header {
   background-color: #475a64;
 }
 .footer-content.footer-content-style-3 .footer-description {
-  color: #0f77ad;
+  color: #1041FB;
 }
 .footer-content.footer-content-style-3 .btn-for-icon {
   color: #07932e;
@@ -1513,7 +1513,7 @@ header {
   background-color: #a6b7c0;
 }
 .footer-content.footer-content-style-4 .footer-description {
-  color: #0f77ad;
+  color: #1041FB;
 }
 .footer-content.footer-content-style-4 .btn-for-icon {
   color: #93c524;
@@ -1535,7 +1535,7 @@ header {
   background-color: #a6b7c0;
 }
 .footer-content.footer-content-style-5 .footer-description {
-  color: #0f77ad;
+  color: #1041FB;
 }
 .footer-content.footer-content-style-5 .btn-for-icon {
   color: #ec3460;
@@ -1557,7 +1557,7 @@ header {
   background-color: #a6b7c0;
 }
 .footer-content.footer-content-style-6 .footer-description {
-  color: #0f77ad;
+  color: #1041FB;
 }
 .footer-content.footer-content-style-6 .btn-for-icon {
   color: #f1622a;
@@ -1579,7 +1579,7 @@ header {
   background-color: #a6b7c0;
 }
 .footer-content.footer-content-style-7 .footer-description {
-  color: #0f77ad;
+  color: #1041FB;
 }
 .footer-content.footer-content-style-7 .btn-for-icon {
   color: #f04e4e;
@@ -1601,7 +1601,7 @@ header {
   background-color: #a6b7c0;
 }
 .footer-content.footer-content-style-8 .footer-description {
-  color: #0f77ad;
+  color: #1041FB;
 }
 .footer-content.footer-content-style-8 .btn-for-icon {
   color: #ee6262;
@@ -1623,7 +1623,7 @@ header {
   background-color: #a6b7c0;
 }
 .footer-content.footer-content-style-9 .footer-description {
-  color: #0f77ad;
+  color: #1041FB;
 }
 .footer-content.footer-content-style-9 .btn-for-icon {
   color: #ff85be;
@@ -1645,7 +1645,7 @@ header {
   background-color: #a6b7c0;
 }
 .footer-content.footer-content-style-10 .footer-description {
-  color: #0f77ad;
+  color: #1041FB;
 }
 .footer-content.footer-content-style-10 .btn-for-icon {
   color: #46c9d9;
@@ -1667,7 +1667,7 @@ header {
   background-color: #a6b7c0;
 }
 .footer-content.footer-content-style-11 .footer-description {
-  color: #0f77ad;
+  color: #1041FB;
 }
 .footer-content.footer-content-style-11 .btn-for-icon {
   color: #6c69de;
@@ -1733,14 +1733,14 @@ header {
   line-height: 55px;
 }
 .footer-map {
-  background-color: #0f77ad;
+  background-color: #1041FB;
 }
 .footer-map .contact-form-wrapper {
   margin-top: 0;
 }
 .footer-map .contact-form-wrapper .contact-form-content.right {
   padding: 78px 15px 75px 100px;
-  background-color: #0f77ad;
+  background-color: #1041FB;
   text-align: left;
   color: #ffffff;
   position: relative;
@@ -1751,7 +1751,7 @@ header {
   top: 0;
   left: 100%;
   bottom: 0;
-  background-color: #0f77ad;
+  background-color: #1041FB;
 }
 .footer-map .contact-form-wrapper .contact-form-inner {
   border: 0;
@@ -1951,7 +1951,7 @@ header {
 }
 .footer-map.footer-content-style-15.new-footer-map .contact-form-wrapper .contact-form-content.right {
   text-align: left;
-  background-color: #0f77ad;
+  background-color: #1041FB;
   padding: 78px 65px 75px 70px;
 }
 .footer-map.footer-content-style-15.new-footer-map .contact-form-wrapper .contact-form-inner {
@@ -1998,7 +1998,7 @@ header {
 .footer-base .footer-base-right .list-footer-link:before {
   position: absolute;
   content: '';
-  background-color: #0f77ad;
+  background-color: #1041FB;
   bottom: -5px;
   left: 0;
   right: 0;
@@ -2010,7 +2010,7 @@ header {
   -o-transition: 0.3s;
 }
 .footer-base .footer-base-right .list-footer-link:hover {
-  color: #0f77ad;
+  color: #1041FB;
 }
 .footer-base .footer-base-right .list-footer-link:hover:before {
   opacity: 1;
@@ -2025,7 +2025,7 @@ header {
   color: #b2c2cc;
 }
 .footer-base.footer-base-style-2 .footer-base-right .list-footer-link:hover {
-  color: #0f77ad;
+  color: #1041FB;
 }
 .footer-base.footer-base-style-3 {
   background-color: #ffffff;
@@ -2075,7 +2075,7 @@ header {
   background-attachment: scroll;
 }
 .testimonials {
-  background-color: #0f77ad;
+  background-color: #1041FB;
 }
 .testimonials:before {
   background-image: url(../images/common/background/background-testimonials.jpg);
@@ -2270,7 +2270,7 @@ header {
   background-image: none;
 }
 .form-choose-wrapper {
-  background-color: #0f77ad;
+  background-color: #1041FB;
 }
 .header-slider-options-wrapper {
   background-color: #1c242a;
