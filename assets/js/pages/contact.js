@@ -187,7 +187,7 @@
         var styledMap = new google.maps.StyledMapType(styles,
             {name: "Styled Map"});
         var myOptions = {
-            zoom: 10,
+            zoom: 40,
             center: myLatlng,
             mapTypeControl: true,
             mapTypeId: google.maps.MapTypeId.ROADMAP,
@@ -254,13 +254,13 @@
                 'border' : '2px solid #E9343C',
             });
             // iwOuter.parent().parent().css({left: '30px'});
-            // Moves the shadow of the arrow 76px to the left margin 
+            // Moves the shadow of the arrow 76px to the left margin
             // iwBackground.children(':nth-child(1)').attr('style', function(i,s){ return s + 'left: 0px !important;'});
 
-            // Moves the arrow 76px to the left margin 
+            // Moves the arrow 76px to the left margin
             // iwBackground.children(':nth-child(3)').attr('style', function(i,s){ return s + 'left: 76px !important;'});
             iwBackground.children(':nth-child(3)').find('div').children().css({
-                'box-shadow': '#E9343C 1px 2px 6px', 
+                'box-shadow': '#E9343C 1px 2px 6px',
                 'z-index' : '1',
                 // 'border' : '1px solid #1c90cd',
             });
@@ -286,7 +286,7 @@
            $('#map').css({
                 'height': $('.contact-form-wrapper .contact-form-content.right').height()*0.9,
                 "left": -offsetContact
-            }); 
+            });
         }
         else {
             $('#map').css({
