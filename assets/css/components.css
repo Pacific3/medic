@@ -177,7 +177,7 @@
 }
 
 .breadcrumb .breadcrumb-content .breadcrumb-link:hover {
-    color: #07932E
+    color: #E9343C
 }
 
 .breadcrumb .breadcrumb-text {
@@ -273,7 +273,7 @@
 .line {
     width: 64px;
     height: 2px;
-    background-color: #07932e;
+    background-color: #E9343C;
     margin: 0 auto
 }
 
@@ -302,7 +302,7 @@
     width: 35%;
     height: 2px;
     margin: auto;
-    background-color: #07932e
+    background-color: #E9343C
 }
 
 input[type=text]::-ms-clear {
@@ -638,7 +638,7 @@ input[type=text]::-ms-reveal {
 }
 
 .services-content .services-title:hover a {
-    color: #07932e
+    color: #E9343C
 }
 
 .services-content .description {
@@ -653,7 +653,7 @@ input[type=text]::-ms-reveal {
 .services-content .btn-for-icon i {
     display: block;
     font-size: 36px;
-    color: #07932e;
+    color: #E9343C;
     width: 64px;
     line-height: 64px;
     background-color: #fff;
@@ -664,7 +664,7 @@ input[type=text]::-ms-reveal {
 }
 
 .services-content .btn-for-icon .icon2 {
-    background-color: #07932e;
+    background-color: #E9343C;
     color: #fff
 }
 
@@ -1562,7 +1562,7 @@ input[type=text]::-ms-reveal {
 
 .howwedoit-inner:hover:before {
     right: -15px;
-    border-color: #07932e
+    border-color: #E9343C
 }
 
 .howwedoit-inner:hover .btn-for-icon.top .icon2,
@@ -1627,13 +1627,13 @@ input[type=text]::-ms-reveal {
 }
 
 .howwedoit-inner .btn-for-icon i.icon1 {
-    color: #07932e;
+    color: #E9343C;
     background-color: #fff
 }
 
 .howwedoit-inner .btn-for-icon i.icon2 {
     color: #fff;
-    background-color: #07932e
+    background-color: #E9343C
 }
 
 .howwedoit-inner .btn-for-icon i.icon-ambulance1 {
@@ -3135,7 +3135,7 @@ input[type=text]::-ms-reveal {
     background-color: transparent;
     border: 0;
     padding: 0;
-    color: #07932e;
+    color: #E9343C;
     text-decoration: underline;
     letter-spacing: 0
 }
@@ -3404,7 +3404,7 @@ input[type=text]::-ms-reveal {
 }
 
 .read-more:hover {
-    color: #07932E
+    color: #E9343C
 }
 /*----------  1.32. appointment board in slider  ----------*/
 .with-appointment-board {
@@ -3978,13 +3978,13 @@ input[type=text]::-ms-reveal {
 }
 
 .widget-other-services .btn-for-icon i.icon1 {
-    color: #07932e;
+    color: #E9343C;
     background-color: #fff
 }
 
 .widget-other-services .btn-for-icon i.icon2 {
     color: #fff;
-    background-color: #07932e
+    background-color: #E9343C
 }
 
 .widget-other-services .btn-for-icon i.icon-ambulance1 {
@@ -4005,7 +4005,7 @@ input[type=text]::-ms-reveal {
 }
 
 .widget-other-services .howwedoit-title:hover {
-    color: #07932e
+    color: #E9343C
 }
 
 .widget-other-services .howwedoit-inner {
@@ -4019,7 +4019,7 @@ input[type=text]::-ms-reveal {
 }
 
 .widget-other-services .howwedoit-inner:hover:before {
-    border-color: #07932e
+    border-color: #E9343C
 }
 
 .widget-other-services .howwedoit-inner:hover .btn-for-icon.top .icon2,
@@ -4165,8 +4165,8 @@ input[type=text]::-ms-reveal {
 
 .page-404-wrapper .btn-wrapper .btn:hover {
     color: #fff;
-    background-color: #07932E;
-    border-color: #07932E
+    background-color: #E9343C;
+    border-color: #E9343C
 }
 /*----------  3.2. faq  ----------*/
 .faq-wrapper .faq-group {
@@ -4225,7 +4225,7 @@ input[type=text]::-ms-reveal {
 
 .faq-wrapper .faq-panel .panel-heading.active:before {
     content: '-';
-    background-color: #07932e;
+    background-color: #E9343C;
     color: #fff
 }
 
@@ -4274,7 +4274,7 @@ input[type=text]::-ms-reveal {
     position: absolute;
     width: 100%;
     height: 2px;
-    background-color: #07932e;
+    background-color: #E9343C;
     bottom: -15px;
     left: 0;
     opacity: 0
@@ -4496,7 +4496,7 @@ input[type=text]::-ms-reveal {
 .contact-wrapper .contact-info .btn-for-icon i {
     display: block;
     font-size: 36px;
-    color: #07932e;
+    color: #E9343C;
     width: 64px;
     line-height: 64px;
     background-color: #fff;
@@ -4507,7 +4507,7 @@ input[type=text]::-ms-reveal {
 }
 
 .contact-wrapper .contact-info .btn-for-icon .icon2 {
-    background-color: #07932e;
+    background-color: #E9343C;
     color: #fff
 }
 
@@ -4651,7 +4651,7 @@ input[type=text]::-ms-reveal {
 
 .map-content .g-address i,
 .map-content .g-phone-num i {
-    color: #07932e;
+    color: #E9343C;
     font-size: 15px;
     padding-right: 5px
 }
@@ -5609,7 +5609,7 @@ input[type=text]::-ms-reveal {
 }
 
 .doctor-wrapper .doctor-info .info-inner:hover {
-    color: #07932e
+    color: #E9343C
 }
 
 .doctor-wrapper .doctor-info .info-inner i {
@@ -5779,7 +5779,7 @@ input[type=text]::-ms-reveal {
     background-color: #FFF;
     border: 0;
     padding: 0 15px;
-    color: #07932e;
+    color: #E9343C;
     text-decoration: underline;
     font-weight: bold
 }
@@ -5800,7 +5800,7 @@ input[type=text]::-ms-reveal {
     font-size: 30px;
     padding-top: 20px;
     display: block;
-    color: #07932e
+    color: #E9343C
 }
 
 .visit-doctor-wrapper {
@@ -6001,7 +6001,7 @@ input[type=text]::-ms-reveal {
 }
 
 .appointment-wrapper .list-features i {
-    color: #07932e
+    color: #E9343C
 }
 
 .appointment-wrapper .list-features .header-feature {
@@ -6240,7 +6240,7 @@ input[type=text]::-ms-reveal {
 }
 
 .blog-detail-wrapper .comments .comment-content .url:hover {
-    color: #07932e
+    color: #E9343C
 }
 
 .blog-detail-wrapper .comments .comment-content .info {
@@ -6249,7 +6249,7 @@ input[type=text]::-ms-reveal {
 }
 
 .blog-detail-wrapper .comments .comment-content .info:hover {
-    color: #07932e
+    color: #E9343C
 }
 
 .blog-detail-wrapper .comments .comment-content .info i {
@@ -6257,7 +6257,7 @@ input[type=text]::-ms-reveal {
 }
 
 .blog-detail-wrapper .comments .comment-content .info i.fa-reply {
-    color: #07932e
+    color: #E9343C
 }
 
 .blog-detail-wrapper .comments .comment-content .author-info + .author-info:before {
@@ -6483,7 +6483,7 @@ input[type=text]::-ms-reveal {
 }
 
 .post-single-content .panel-default .panel-title a:hover {
-    color: #07932e
+    color: #E9343C
 }
 
 .post-single-content .panel-default .author-image {
@@ -8363,12 +8363,12 @@ input[type=text]::-ms-reveal {
 }
 
 .location-info-with-icon i {
-    color: #07932e;
+    color: #E9343C;
     margin-right: 18px
 }
 
 .location-info-with-icon .location-link {
-    color: #07932e;
+    color: #E9343C;
     text-decoration: underline
 }
 
@@ -9930,7 +9930,7 @@ input[type=text]::-ms-reveal {
 .coming-soon-2 .countdown-amount:before {
     width: 50px;
     height: 2px;
-    background-color: #07932e
+    background-color: #E9343C
 }
 
 .coming-soon-2 .countdown-section + .countdown-section .countdown-amount:after {
@@ -9949,8 +9949,8 @@ input[type=text]::-ms-reveal {
 }
 
 .coming-soon-2 .btn-wrapper .btn-transparent:hover {
-    background-color: #07932e;
-    border-color: #07932e
+    background-color: #E9343C;
+    border-color: #E9343C
 }
 
 .coming-soon-2 .list-socials {
