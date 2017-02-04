@@ -199,7 +199,7 @@
         var styledMap = new google.maps.StyledMapType(styles,
             {name: "Styled Map"});
         var myOptions = {
-            zoom: 45,
+            zoom: 30,
             center: center_in_screen,
             mapTypeControl: true,
             mapTypeId: google.maps.MapTypeId.ROADMAP,
