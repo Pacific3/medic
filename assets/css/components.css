@@ -1488,6 +1488,11 @@ input[type=text]::-ms-reveal {
     margin-left: 0;
     margin-right: -55px
 }
+/*----------  Personalized  ----------*/
+.nav-doctor-inner-left,
+.nav-doctor-inner-right{
+    display: none;
+}
 /*----------  1.10. why choose us  ----------*/
 .why-choose-us-wrapper {
     padding: 75px 0 80px;
@@ -10045,4 +10050,3 @@ input[type=text]::-ms-reveal {
 /*=============================
  ======      PLUGIN      ======
  =============================*/
-
