@@ -60,11 +60,11 @@ jQuery(function($) {
                     $(this).parent().find('.grid-item.height-2x').css('height', recent_news_height_2x - $('.grid-item.height-2x .post-content').outerHeight());
                     $(this).parent().find('.grid-item.height-2x .post-image').css('height', recent_news_height_2x - $('.grid-item.height-2x .post-content').outerHeight() + 30);
                 });
-                
+
                 $('.recent-news-wrapper .grid').isotope({
                     itemSelector: '.grid-item'
                 });
-                
+
             }
 
             if ($(window).width() <= 768 && $(window).width() > 600) {
@@ -209,7 +209,7 @@ jQuery(function($) {
             autoplayHoverPause: true,
             autoplay: 3000,
             autoplaySpeed: 1000,
-            loop: true,
+            loop: false,
             nav: false,
             margin: 30,
             responsive: {
@@ -397,7 +397,7 @@ jQuery(function($) {
         $('.clients-wrapper').owlCarousel({
             autoplay : 3000,
             autoplayHoverPause: true,
-            autoplaySpeed: 1000,  
+            autoplaySpeed: 1000,
             margin: 25,
             loop: true,
             responsive: {
@@ -421,7 +421,7 @@ jQuery(function($) {
             $('.feature-wrapper.home-ophthalmology .list-features').owlCarousel({
                 autoplay : 3000,
                 autoplayHoverPause: true,
-                autoplaySpeed: 1000,  
+                autoplaySpeed: 1000,
                 margin: 0,
                 loop: true,
                 nav: true,
