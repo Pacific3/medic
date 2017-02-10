@@ -2766,3 +2766,8 @@
         left: -10.5px
     }
 }
+/*----------  Personalized  ----------*/
+.nav-doctor-inner-left,
+.nav-doctor-inner-right{
+    display: none;
+}
