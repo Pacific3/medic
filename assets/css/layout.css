@@ -2054,7 +2054,8 @@ header {
   background-size: cover;
 }
 .howwedo:before {
-  background-image: url(../images/common/background/background-pattern.jpg);
+  /*background-image: url(../images/common/background/background-pattern.jpg);*/
+  background-color: #FFFFFF;
   background-repeat: repeat;
   background-attachment: scroll;
   background-size: 0.8%;
