@@ -38,7 +38,39 @@
   ga('send', 'pageview');
 
 </script>
+  <script>
+var sections = $('section')
+  , nav = $('nav')
+  , nav_height = nav.outerHeight();
 
+$(window).on('scroll', function () {
+  var cur_pos = $(this).scrollTop();
+
+  sections.each(function() {
+    var top = $(this).offset().top - nav_height,
+        bottom = top + $(this).outerHeight();
+
+    if (cur_pos >= top && cur_pos <= bottom) {
+      nav.find('a').removeClass('active');
+      sections.removeClass('active');
+
+      $(this).addClass('active');
+      nav.find('a[href="#'+$(this).attr('id')+'"]').addClass('active');
+    }
+  });
+});
+
+nav.find('a').on('click', function () {
+  var $el = $(this)
+    , id = $el.attr('href');
+
+  $('html, body').animate({
+    scrollTop: $(id).offset().top - nav_height
+  }, 500);
+
+  return false;
+});
+</script>
 </head>
 
 <body>
@@ -189,25 +221,25 @@
                 <div class="header-main">
                     <div class="container">
                         <div class="header-main-wrapper">
-                            <div class="hamburger-menu">
+                            <!-- <div class="hamburger-menu">
                                 <div class="hamburger-menu-wrapper">
                                     <div class="icons"></div>
                                 </div>
-                            </div>
+                            </div> -->
                             <div class="navbar-header pull-left">
                                 <div class="logo">
                                     <a href="index.html" class="header-logo"><img src="assets/images/logo/logo-default.png" alt="venart-logo" /></a>
                                 </div>
                             </div>
-                            <!-- <nav class="navigation pull-right">
+                            <nav class="navigation pull-right">
                                 <ul class="nav-links nav navbar-nav">
                                     <li class="mega-menu active"><a href="index.html" class="main-menu"><span class="text">Home</span><span class="fa fa-angle-down icons-dropdown"></span></a>
-                                        <!-- <div class="mega-menu-content clearfix"> -->
-                                            <!-- <ul class="mega-menu-column col-md-3">
+                                        <div class="mega-menu-content clearfix">
+                                            <ul class="mega-menu-column col-md-3">
                                                 <li class="mega-menu-title sub-menu"><a href="javascript:void(0)" class="sf-with-ul">Homepage</a>
                                                     <ul class="dropdown-menu dropdown-menu-1">
                                                         <li>
-                                                            <a href="index.html" class="link-page"> <span class="text">Homepage default      </span></a>
+                                                            <a href="#1" class="link-page"> <span class="text">Prueba1</span></a>
                                                         </li>
                                                         <li>
                                                             <a href="home-header-center.html" class="link-page"> <span class="text">home header center</span></a>
@@ -218,22 +250,22 @@
                                                         <li>
                                                             <a href="home-cancer-center.html" class="link-page"> <span class="text">home cancer center</span></a>
                                                         </li>
-                                                    </ul> -->
-                                                <!-- </li>
+                                                    </ul>
+                                                </li>
                                             </ul>
                                             <ul class="mega-menu-column col-md-3">
                                                 <li class="mega-menu-title sub-menu"><a href="javascript:void(0)" class="sf-with-ul">Homepage</a>
-                                                    <ul class="dropdown-menu dropdown-menu-1"> -->
-                                                        <!-- <li>
+                                                    <ul class="dropdown-menu dropdown-menu-1">
+                                                        <li>
                                                             <a href="home-pediatric.html" class="link-page"> <span class="text">Homepage Pediatric      </span></a>
                                                         </li>
                                                         <li><a href="home-vet-clinic.html" class="link-page"><span class="text">Home Vet Clinic</span></a></li>
                                                         <li><a href="home-dental-care.html" class="link-page"><span class="text">Homepage Dental Care             </span></a></li>
-                                                        <li> -->
-                                                            <!-- <a href="home-dermatology.html" class="link-page"> <span class="text">home dermatology</span></a>
+                                                        <li>
+                                                            <a href="home-dermatology.html" class="link-page"> <span class="text">home dermatology</span></a>
                                                         </li>
-                                                  </ul> -->
-                                              <!--   </li>
+                                                  </ul>
+                                                </li>
                                             </ul>
                                             <ul class="mega-menu-column col-md-3">
                                                 <li class="mega-menu-title sub-menu"><a href="javascript:void(0)" class="sf-with-ul">Homepage</a>
@@ -407,8 +439,8 @@
                                         </ul>
                                     </li>
                                     <li><a href="contact-us.html" class="main-menu"><span class="text">contact</span></a></li>
-                                </ul> -->
-                                <!-- <div class="button-search">
+                                </ul>
+                                <div class="button-search">
                                     <p class="main-menu"><i class="fa fa-search"></i></p>
                                 </div>
                                 <div class="nav-search hide">
@@ -416,8 +448,8 @@
                                         <input type="text" placeholder="Search" class="searchbox" />
                                         <button type="submit" class="searchbutton fa fa-search"></button>
                                     </form>
-                                </div> -->
-                            </nav> -->
+                                </div>
+                            </nav>
                             <div class="clearfix"></div>
                         </div>
                     </div>
@@ -426,7 +458,8 @@
             <!-- WRAPPER-->
             <div id="wrapper-content">
                 <!-- MAIN CONTENT-->
-                <div class="main-content">
+                <div class="sections">
+                  <div class="main-content">
                     <section class="slider-medic slider-default">
                         <div class="slider-wrapper slide-1 owl-carousel">
                             <div style="background-image: url(assets/images/common/background/background-header.jpg)" class="item item-big-1">
@@ -434,11 +467,11 @@
                                     <div class="row">
                                         <div data-hash="item-big-1" class="typo-1 typo-adds-on active">
                                             <div class="typo-line fadeInUp animated delay-1">
-                                                <h4 class="sub-header">Angiólogo y Cirujano Vascular</h4></div>
+                                                <section id="1"> <h4 class="sub-header">Angiólogo y Cirujano Vascular</h4></div>
                                             <h2 class="header fadeInUp animated delay-2">Atención de Enfermedades de la Circulación</h2>
                                             <div class="description fadeInUp animated delay-3">Permita que un experto Doctor Angiólogo lo apoye a recuperar y mantener su salud por medio de técnicas novedosas y actuales a nivel internacional. Angeda tu cita de inmediato.</div>
                                             <div class="btn-wrapper fadeInUp animated delay-4"><a href="#" class="btn">y Algo más</a></div>
-                                        </div>
+                                        </section></div>
                                     </div>
                                 </div>
                             </div>
