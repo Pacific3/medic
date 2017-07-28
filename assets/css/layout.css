@@ -355,7 +355,7 @@ header {
   top: 50px;
 }
 .header-main.hide-menu {
-  top: -200px !important;
+  top: 0px !important;
   position: fixed;
   transition: all 0.5s ease;
   -webkit-transition: all 0.5s ease;
@@ -527,7 +527,8 @@ header {
 }
 /*----------  2.4. Navigation / Menu  ----------*/
 .navigation {
-  padding: 0;
+    /* padding: 0; */
+    padding-right: 10%;
 }
 .navigation .nav-links .main-menu {
   font-size: 13px;
@@ -716,17 +717,17 @@ header {
   position: inherit;
 }
 .mega-menu-content {
-  display: none;
-  position: absolute;
-  width: 1140px;
-  background-color: #ffffff;
-  top: 100%;
-  left: 0;
-  right: 0;
-  margin: auto;
-  padding: 0 10px;
-  border-top: 1px solid #d9e7ee;
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+    display: none;
+    position: absolute;
+    width: 300px;
+    background-color: #ffffff;
+    top: 100%;
+    /* left: 0px; 
+    right: 8%;*/
+    margin: 0 auto;
+    padding: 0 10px;
+    border-top: 1px solid #d9e7ee;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
 }
 .mega-menu-content .mega-menu-title {
   border: 0;
@@ -1966,7 +1967,7 @@ header {
   color: #c9d6dd;
 }
 .footer-base {
-  padding: 58px 0;
+  padding: 20px 0;
   background-color: #f5fafd;
 }
 .footer-base .footer-base-left {
@@ -2054,8 +2055,8 @@ header {
   background-size: cover;
 }
 .howwedo:before {
-  /*background-image: url(../images/common/background/background-pattern.jpg);*/
-  background-color: #FFFFFF;
+  /*background-image: url(../images/common/background/background-pattern.jpg);
+  background-color: #FFFFFF;*/
   background-repeat: repeat;
   background-attachment: scroll;
   background-size: 0.8%;
@@ -2337,3 +2338,17 @@ header {
 /*===============================
  ======= End of BACKGROUND=======
  ===============================*/
+
+.space-x {
+    padding: 182px 0em;
+}
+
+.dropdown-menu>li>a {
+    display: block;
+    padding: 10px 20px !important;
+    clear: both;
+    font-weight: 400;
+    line-height: 1.42857143;
+    color: #333;
+    white-space: nowrap;
+}

@@ -63,6 +63,8 @@
 =            RESPONSIVE SCREEN            =
 =========================================*/
 /*----------  1.1. Media screen min width 1920px  ----------*/
+
+
 @media screen and (min-width:1920px) {
     .slider-medic .slide-2,
     .slider-medic .slide-3 {
@@ -86,6 +88,19 @@
     }
     .slider-howwedo .thumbs-howwedo {
         top: 80%
+    }
+    .mega-menu-content {
+        display: none;
+        position: absolute;
+        width: 300px;
+        background-color: #ffffff;
+        top: 100%;
+        /* left: 0px; */
+        right: inherit;
+        margin: 0 auto;
+        padding: 0 10px;
+        border-top: 1px solid #d9e7ee;
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
     }
 }
 /*----------  1.2. Media screen min width 1600px  ----------*/
@@ -158,9 +173,9 @@
 }
 /*----------  1.6. Media screen max width 1199px  ----------*/
 @media screen and (max-width:1199px) {
-    .mega-menu-content {
+/*     .mega-menu-content {
         width: 940px
-    }
+    } */
     .mega-menu-content .dropdown-menu .link-page .text {
         display: inline
     }
@@ -252,7 +267,7 @@
     .howwedo {
         min-height: 0;
         padding: 100px 0;
-        background-image: url(../images/common/background/background-pattern.jpg);
+        /* background-image: url(../images/common/background/background-pattern.jpg); */
         background-repeat: repeat;
         background-attachment: scroll;
         background-size: 0.8%
