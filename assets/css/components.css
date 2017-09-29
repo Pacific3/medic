@@ -1040,27 +1040,27 @@ input[type=text]::-ms-reveal {
 }
 
 .testimonials .slider-testimonials .owl-dot:nth-child(1):before {
-    background-image: url(../images/testimonials/testimonials-1.jpg)
+    background-color: #E62D34
 }
 
 .testimonials .slider-testimonials .owl-dot:nth-child(2):before {
-    background-image: url(../images/testimonials/testimonials-2.jpg)
+    background-color: #E62D34
 }
 
 .testimonials .slider-testimonials .owl-dot:nth-child(3):before {
-    background-image: url(../images/testimonials/testimonials-3.jpg)
+    background-color: #E62D34
 }
 
 .testimonials .slider-testimonials .owl-dot:nth-child(4):before {
-    background-image: url(../images/testimonials/testimonials-4.jpg)
+    background-color: #E62D34
 }
 
 .testimonials .slider-testimonials .owl-dot:nth-child(5):before {
-    background-image: url(../images/testimonials/testimonials-5.jpg)
+    background-color: #E62D34
 }
 
 .testimonials .slider-testimonials .owl-dot:nth-child(6):before {
-    background-image: url(../images/testimonials/testimonials-2.jpg)
+    background-color: #E62D34
 }
 
 .testimonials .owl-dots .owl-dot span:before,

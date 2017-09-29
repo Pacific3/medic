@@ -610,7 +610,7 @@ nav.find('a').on('click', function () {
                                 </div>
                                 <div class="clearfix"> </div>
                             </div>
-                        </div>      
+                        </div>
 
                         <div class="slider-howwedo">
                             <div class="space-x">
@@ -755,6 +755,59 @@ nav.find('a').on('click', function () {
                             </div>
                         </div>
                     </section>
+
+
+                    <!-- ////////////// START SECTION VIDEOS  ///////////////    -->
+                    <section class="gallery-wrapper padding-top-0 padding-bottom-50">
+                      <div class="container">
+                        <center>
+                        <div class="typo-line">
+                            <h4 class="sub-header"> Nuestro Trabajo </h4></div>
+                        <h2 class="header">VIDEOS</h2></center>
+                        <br>
+                        <hr>
+                        <div class="col-md-12">
+                            <div class="row">
+                                <div class="col-md-6">
+                                   <iframe width="560" height="315" src="https://www.youtube.com/embed/MA-9SUSQeig" frameborder="0" allowfullscreen style="padding: 7px;"></iframe>
+                                </div>
+                                <div class="col-md-6">
+                                   <iframe width="560" height="315" src="https://www.youtube.com/embed/TAraiQxYqU4" frameborder="0" allowfullscreen style="padding: 7px;"></iframe>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                   <iframe width="560" height="315" src="https://www.youtube.com/embed/UMYtBoGiD50" frameborder="0" allowfullscreen style="padding: 7px;"></iframe>
+                                </div>
+                                <div class="col-md-6">
+                                   <iframe width="560" height="315" src="https://www.youtube.com/embed/Ig5wYxXFxUc" frameborder="0" allowfullscreen style="padding: 7px;"></iframe>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                   <iframe width="560" height="315" src="https://www.youtube.com/embed/w3Zi8QqFtI4" frameborder="0" allowfullscreen style="padding: 7px;"></iframe>
+                                </div>
+                                <div class="col-md-6">
+                                   <iframe width="560" height="315" src="https://www.youtube.com/embed/bFR7AznRNmA" frameborder="0" allowfullscreen style="padding: 7px;"></iframe>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                   <iframe width="560" height="315" src="https://www.youtube.com/embed/nUHLH1eHlt4" frameborder="0" allowfullscreen style="padding: 7px;"></iframe>
+                                </div>
+                                <div class="col-md-6">
+                                   <iframe width="560" height="315" src="https://www.youtube.com/embed/AzpxiHktzlg" frameborder="0" allowfullscreen style="padding: 7px;"></iframe>
+                                </div>
+                            </div>
+                          <hr>
+                          <br>
+                        </div>
+
+                    <!-- ////////////// END SECTION VIDEOS  ///////////////    -->
+
+
+                    </section>
+
                     <div id="section13"></div>
                     <section class="testimonials padding-top-100 padding-bottom-100">
                         <div class="nav-testimonial"><a href="javascript:void(0)" class="nav-testimonial-inner-left"><i class="fa fa-angle-left"></i></a><a href="javascript:void(0)" class="nav-testimonial-inner-right"><i class="fa fa-angle-right"></i></a></div>
@@ -1141,11 +1194,11 @@ nav.find('a').on('click', function () {
 </body>
 
 <script>
-    
+
 function scrollNav() {
-  $('.nav a').click(function(){  
+  $('.nav a').click(function(){
     //Toggle Class
-    $(".active").removeClass("active");      
+    $(".active").removeClass("active");
     $(this).closest('li').addClass("active");
     var theClass = $(this).attr("class");
     $('.'+theClass).parent('li').addClass('active');
