@@ -4568,6 +4568,15 @@ input[type=text]::-ms-reveal {
     right: 0
 }
 
+.contact-form-wrapper .map-viewer {
+  border: 0;
+  margin: 0;
+  height: 513px;
+  left: -150px;
+  overflow: hidden;
+  width: calc(100% + 150px);
+}
+
 .contact-form-wrapper > .img-vet-contact,
 .contact-form-wrapper > .img-doctor-contact,
 .contact-form-wrapper > .img-kids-contact {
